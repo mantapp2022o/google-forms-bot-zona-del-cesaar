@@ -3,7 +3,7 @@ name: Enviar formularios Google Forms
 on:
   workflow_dispatch:        # ejecución manual
   schedule:
-    - cron: "0 14 * * *"    # todos los días 8:00 am Colombia (UTC-5)
+    - cron: "0 14 * * *"    # todos los días 9:00 am Colombia (UTC-5)
 
 jobs:
   enviar:
