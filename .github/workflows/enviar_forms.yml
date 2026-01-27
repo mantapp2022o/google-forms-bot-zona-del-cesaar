@@ -2,7 +2,7 @@ name: Enviar formularios Google Forms
 
 on:
   schedule:
-    - cron: "0 14 * * *"   # 9:00 a.m. Colombia aprox
+    - cron: "20 21 * * *"   # 9:00 a.m. Colombia aprox
   workflow_dispatch:
 
 permissions:
