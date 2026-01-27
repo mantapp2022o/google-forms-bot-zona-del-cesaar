@@ -5,6 +5,9 @@ on:
     - cron: "0 14 * * *"   # 9:00 a.m. Colombia aprox
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   enviar:
     runs-on: ubuntu-latest
