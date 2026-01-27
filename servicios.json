@@ -1,0 +1,44 @@
+[
+  {
+    "descripcion": "Ahorro energetico: ajustes nevera de lacteos",
+    "area": "LACTEOS",
+    "equipo": "RACK",
+    "prioridad": "3",
+    "tipo": "Refrigeración"
+  },
+  {
+    "descripcion": "Ahorro energético: ajustes nevera de fruver",
+    "area": "FRUVER",
+    "equipo": "RACK",
+    "prioridad": "3",
+    "tipo": "Refrigeración"
+  },
+  {
+    "descripcion": "Ahorro energetico: ajustes nevera de carnes",
+    "area": "PROCESO DE CARNES",
+    "equipo": "RACK",
+    "prioridad": "3",
+    "tipo": "Refrigeración"
+  },
+  {
+    "descripcion": "Ahorro energético: ajustes nevera de congelacion",
+    "area": "PROCESO DE CARNES",
+    "equipo": "RACK",
+    "prioridad": "3",
+    "tipo": "Refrigeración"
+  },
+  {
+    "descripcion": "Ahorro energético: ajustes cuarto de carnes",
+    "area": "PROCESO DE CARNES",
+    "equipo": "RACK",
+    "prioridad": "3",
+    "tipo": "Refrigeración"
+  },
+  {
+    "descripcion": "Ahorro energético: ajustes cuarto de congelacion",
+    "area": "PROCESO DE CARNES",
+    "equipo": "RACK",
+    "prioridad": "3",
+    "tipo": "Refrigeración"
+  }
+]
